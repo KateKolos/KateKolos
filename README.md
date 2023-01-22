@@ -2,7 +2,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KateKolos)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KateKolos&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **KateKolos/KateKolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
